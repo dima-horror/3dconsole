@@ -1,0 +1,15 @@
+C:\Projects\3dconsole\3dconsole\bin\Debug\net6.0\3dconsole.exe
+C:\Projects\3dconsole\3dconsole\bin\Debug\net6.0\3dconsole.deps.json
+C:\Projects\3dconsole\3dconsole\bin\Debug\net6.0\3dconsole.runtimeconfig.json
+C:\Projects\3dconsole\3dconsole\bin\Debug\net6.0\3dconsole.dll
+C:\Projects\3dconsole\3dconsole\bin\Debug\net6.0\ref\3dconsole.dll
+C:\Projects\3dconsole\3dconsole\bin\Debug\net6.0\3dconsole.pdb
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.csproj.AssemblyReference.cache
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.AssemblyInfoInputs.cache
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.AssemblyInfo.cs
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.csproj.CoreCompileInputs.cache
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.dll
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\ref\3dconsole.dll
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.pdb
+C:\Projects\3dconsole\3dconsole\obj\Debug\net6.0\3dconsole.genruntimeconfig.cache
